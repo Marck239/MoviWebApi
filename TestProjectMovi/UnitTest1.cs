@@ -1,6 +1,4 @@
-using Microsoft.Extensions.Options;
-using MoviWebApi.Models;
-using MoviWebApi.Services;
+
 namespace TestProjectMovi
 {
     [TestFixture]
